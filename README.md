@@ -6,9 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mitali-Padave&label=Profile%20views&color=FF5A5F&style=flat" alt="profile views" />
-</p>
 
 ## 🌱 About Me
 
