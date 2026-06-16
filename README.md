@@ -53,17 +53,6 @@ Every project taught me something the last one didn't:
 
 I'm not done. I'm just getting started, and I'm giving it my best every step of the way. 💪
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mitali-Padave&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mitali's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mitali-Padave&theme=radical&hide_border=true" alt="GitHub streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mitali-Padave&theme=radical&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
-
 ## 🤝 Connect With Me
 
 <p align="left">
