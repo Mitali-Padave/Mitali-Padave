@@ -43,7 +43,7 @@ Where I am and where I'm headed — updated as I go:
 | 🛒 Blinkit Grocery Dashboard | Q-Commerce | What drives grocery sales and outlet performance? |
 
 
-📂 **[See the full portfolio »](https://github.com/Mitali-Padave?tab=repositories)**
+📂 **[See the full portfolio »](https://github.com/Mitali-Padave)**
 
 ## 📈 My Learning Journey
 
