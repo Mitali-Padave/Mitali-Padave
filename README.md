@@ -17,10 +17,10 @@ I'm early in my journey, and I learn best by **building real things**. I take a 
 - 🎯 Goal: grow into a data analyst who solves real business problems, not just makes reports
 
 ## 🛠️ Tools & Skills
+ 
+`Excel` `PivotTables` `Power BI` `Python` `Dashboards` `Data Cleaning` `Data Viz` `SQL` `Tableau`
 
-`Excel` `PivotTables` `Power BI` `Python` `Dashboards` `Data Cleaning` `Data Viz`
-
-📚 **Currently learning / exploring next:** SQL · Tableau · AI for data analysis
+📚 **Currently learning / exploring next:** · AI for data analysis
 
 ## 🧭 Progress / Roadmap
 
