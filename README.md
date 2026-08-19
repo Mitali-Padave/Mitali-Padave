@@ -20,7 +20,7 @@ I'm early in my journey, and I learn best by **building real things**. I take a 
  
 `Excel` `PivotTables` `Power BI` `Python` `Dashboards` `Data Cleaning` `Data Viz` `SQL` `Tableau`
 
-📚 **Currently learning / exploring next:** · AI for data analysis
+📚 **Currently learning / exploring next:** AI for data analysis
 
 ## 🧭 Progress / Roadmap
 
@@ -30,8 +30,8 @@ Where I am and where I'm headed — updated as I go:
 - [x] **Data Cleaning & Data Viz** — turning raw, messy data into clear stories
 - [x] **Power BI** — interactive reports & dashboards
 - [x] **Python** — data analysis end-to-end
-- [ ] **SQL** — querying real databases
-- [ ] **Tableau** — advanced visual storytelling
+- [x] **SQL** — querying real databases
+- [x] **Tableau** — advanced visual storytelling
 - [ ] **AI for data analysis** — smarter, faster insights
 
 ## 🚀 Featured Projects
